@@ -1,7 +1,7 @@
-#python 3.7.1
+import os,sys
 import json
 from urllib import request
-
+os.system("clear")
 print("\n== IP TRACKER ==\n")
 
 url = "https://ipapi.co/"
