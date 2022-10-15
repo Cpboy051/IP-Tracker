@@ -12,4 +12,4 @@ cd IP-Tracker
 python3 iptrack.py
 ```
 ## Example Script
-![Uploading IMG_20221016_035331.jpg…]()
+![Uploading IMG_20221016_035331.jpg…]
