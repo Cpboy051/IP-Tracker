@@ -1,8 +1,13 @@
 # IP-Tracker
 I share simple track ip
 
+### Usage
+```
 git clone https://github.com/cpboy551/IP-Tracker
-
+```
+```
 cd IP-Tracker
-
-python iptrack.py
+```
+```
+python3 iptrack.py
+```
