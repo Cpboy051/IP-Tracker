@@ -11,3 +11,5 @@ cd IP-Tracker
 ```
 python3 iptrack.py
 ```
+## Example Script
+https://github.com/Cpboy051/IP-Tracker/issues/1#issue-1410289484
